@@ -2,6 +2,10 @@
 name = "emoji-quickpick"
 version = "1.0.0"
 authors = ["Andrew Cann <shum@canndrew.org>"]
+description = "emoji picking tool for Linux"
+repository = "https://github.com/canndrew/emoji-quickpick"
+license = "GPL-2.0-or-later"
+readme = "README.md"
 edition = "2018"
 
 [dependencies]
